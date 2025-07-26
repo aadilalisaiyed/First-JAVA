@@ -1,1 +1,2 @@
-Just now I have learnt the basics of java, the syntax and methods. I have created my 1st project of java in which system will select a random number from 1 to 100 and user will guess the value of number
+Welcome to my collection of Java mini projects! 
+This repository contains simple yet interesting projects that I built while learning Java. Each project is designed to sharpen my coding logic, OOPs concepts, and problem-solving skills!
